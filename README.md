@@ -11,7 +11,7 @@ Explain what software engineering is and discuss its importance in the technolog
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
-  1)Development of programming languages the establishment of software engineering as a discipline in the 1960s.
+  1)Development of programming languages ,;the establishment of software engineering as a discipline in the 1960s.
   2)The advent of structured programming in the 1970s.
   3)the rise of agile methodologies in the 2000s.
 
