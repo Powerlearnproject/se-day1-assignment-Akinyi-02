@@ -33,8 +33,9 @@ Waterfall: Sequential approach with distinct phases requirements flowing downwar
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
-  -Software Developer: Responsible for writing code and implementing software solutions.
- - Quality Assurance Engineer: Ensures software quality by designing and executing test plans. - Project Manager: Oversees the planning, execution, and delivery of software projects.
+  Software Developer: Responsible for writing code and implementing software solutions.
+  Quality Assurance Engineer: Ensures software quality by designing and executing test plans. 
+  Project Manager: Oversees the planning, execution, and delivery of software projects.
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
